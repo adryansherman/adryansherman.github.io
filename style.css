@@ -386,22 +386,21 @@ h5 {
     height: 15%;
 
 }
-
 .send {
-background: rgba(212, 110, 173, 0.733);
-position: absolute;
-color: white;
-border: 1px solid white;
-width: 30%;
-font-size: 40px;
-cursor: pointer;
-}
-
-.send:hover {
-    background-color: #999191;
-    opacity: 1;
-
-}
+    background: rgba(212, 110, 173, 0.733);
+    color: white;
+    border: 1px solid black;
+    width: 30%;
+    font-size: 40px;
+    cursor: pointer;
+    }
+    
+    .send:hover {
+        background-color: #999191;
+        opacity: 1;
+    
+    }
+    
 
 .pedd {
     padding-left: 2%;
